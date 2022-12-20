@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4c819e20.css","mappings":"AAAA,YAEI,uCAA4C,CAD5C,UAEJ,CAEA,cAEI,qBAAuB,CADvB,aAEJ","sources":["components/main2.css"],"sourcesContent":["::selection{\r\n    color: black;\r\n    background-color: rgba(131, 158, 255, 0.942);\r\n}\r\n\r\n.change-theme{\r\n    color: #212529;\r\n    background-color: white;\r\n}"],"names":[],"sourceRoot":""}
